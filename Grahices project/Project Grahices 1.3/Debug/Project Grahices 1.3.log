@@ -1,0 +1,4 @@
+﻿  Project Grahices 1.3.cpp
+C:\Users\georg\source\repos\Project Grahices 1.3\Project Grahices 1.3\Project Grahices 1.3.cpp(272,5): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\georg\source\repos\Project Grahices 1.3\Project Grahices 1.3\Project Grahices 1.3.cpp(272,52): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  Project Grahices 1.3.vcxproj -> C:\Users\georg\source\repos\Project Grahices 1.3\Debug\Project Grahices 1.3.exe
